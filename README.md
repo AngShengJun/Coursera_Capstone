@@ -1,5 +1,5 @@
 
-# IBM Data Science Porfessional Capstone - Battle of the Neighborhoods
+# IBM Data Science Professional Capstone - Battle of the Neighborhoods
 
 ## Background
 This capstone project is the cumulation of the courses within the syllabus of the 
